@@ -1,6 +1,6 @@
-# com.cerema.ticket
+# Omneedia Deploy
 
-## com.cerema.ticket
+## com.cerema.deploy
 
 Package description goes here
 
