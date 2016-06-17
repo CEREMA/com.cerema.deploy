@@ -153,7 +153,14 @@
 }
 
 .cls_inf {
-    background-image:url(webapp/inf.png);	
+    margin-top: 3px;
+    padding-left: 34px;
+    font-size: 11px;
+    line-height: 28px;
+    cursor: pointer;
+    background: url(webapp/cls_inf.png) no-repeat;
+    background-position: 4px 4px;    
+    border: 1px solid #fff;	
 }
 
 .cls_auth{
