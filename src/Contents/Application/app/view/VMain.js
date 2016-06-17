@@ -80,7 +80,7 @@ App.view.define('VMain', {
                     cls: 'feed-list',
                     itemSelector: '.feed-list-item',
                     overItemCls: 'feed-list-item-hover',
-                    tpl: '<tpl for="."><div class="cls_{id}">{title}</div></tpl>'                     
+                    tpl: '<tpl for="."><div class="feed-list-item">{title}</div></tpl>'                    
                 }
             ]
         },
