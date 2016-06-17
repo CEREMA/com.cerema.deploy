@@ -49,6 +49,10 @@ App.view.define('VMain', {
                         "id","title"
                     ],data:[
 						{
+							id: "inf",
+							title: "Info"							
+						},
+						{
 							id: "auth",
 							title: "Auth"
 						},
