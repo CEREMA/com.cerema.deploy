@@ -159,13 +159,13 @@
 }
 
 .cls_auth{
-    background: url(webapp/auth.png) no-repeat;
+    background-image: url(webapp/auth.png);
 }
 
 .cls_bdd {
-    background: url(webapp/cls_inf.png) no-repeat;
+    background-image: url(webapp/cls_inf.png);
 }
 						
 .cls_stats{
-    background: url(webapp/cls_inf.png) no-repeat;
+    background-image: url(webapp/cls_inf.png);
 }
