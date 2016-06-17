@@ -61,7 +61,7 @@ App.view.define('VMain', {
 							title: "Bases de données"
 						},
 						{
-							id: "bdd",
+							id: "stats",
 							title: "Statistiques"
 						}
                     ]}),
