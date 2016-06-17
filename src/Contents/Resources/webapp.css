@@ -45,27 +45,6 @@
    /* padding: 1px 3px 0 3px;*/
 }
 
-.feed-list-item {
-    margin-top: 3px;
-    padding-left: 34px;
-    font-size: 11px;
-    line-height: 28px;
-    cursor: pointer;
-    background: url(webapp/ticket.png) no-repeat;
-    background-position: 4px 4px;    
-    border: 1px solid #fff;
-}
-
-.x-item-selected {
-    font-weight: bold;
-    color: #15428B;
-    background-color: #DFE8F6;
-    border: 1px dotted #A3BAE9;
-}
-
-.feed-list-item-hover {
-    background-color: #eee;
-}
 
 .add_ticket
 {
@@ -151,6 +130,29 @@
 {
     background-image:url(webapp/attr.png);
 }
+
+.feed-list-item {
+    margin-top: 3px;
+    padding-left: 34px;
+    font-size: 11px;
+    line-height: 28px;
+    cursor: pointer;
+    background: url(webapp/ticket.png) no-repeat;
+    background-position: 4px 4px;    
+    border: 1px solid #fff;
+}
+
+.x-item-selected {
+    font-weight: bold;
+    color: #15428B;
+    background-color: #DFE8F6;
+    border: 1px dotted #A3BAE9;
+}
+
+.feed-list-item-hover {
+    background-color: #eee;
+}
+
 
 .cls_inf {
     margin-top: 3px;
