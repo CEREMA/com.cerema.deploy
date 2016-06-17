@@ -49,8 +49,12 @@ App.view.define('VMain', {
                         "id","title"
                     ],data:[
 						{
+							id: "auth",
+							title: "Auth"
+						},
+						{
 							id: "bdd",
-							title: "Base de données"
+							title: "Database"
 						}
                     ]}),
                     selModel: {
