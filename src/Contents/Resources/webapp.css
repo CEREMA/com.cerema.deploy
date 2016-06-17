@@ -139,6 +139,7 @@
     cursor: pointer;
     background-position: center center;    
     border: 1px solid #fff;
+	background-repeat:no-repeat;
 }
 
 .feed-list-item.x-item-selected {
@@ -154,7 +155,7 @@
 
 
 .cls_inf {
-    background: url(webapp/inf.png) no-repeat;
+    background-image: url(webapp/inf.png);
 }
 
 .cls_auth{
