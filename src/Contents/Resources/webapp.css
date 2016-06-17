@@ -56,7 +56,7 @@
     border: 1px solid #fff;
 }
 
-.feed-list .x-item-selected {
+.x-item-selected {
     font-weight: bold;
     color: #15428B;
     background-color: #DFE8F6;
