@@ -77,7 +77,7 @@ App.view.define('VMain', {
                         contextmenu: this.onContextMenu
                     },*/
                     trackOver: true,
-                    cls: 'feed-list',
+                    //cls: 'feed-list',
                     //itemSelector: 'feed-list-item',
                     overItemCls: 'feed-list-item-hover',
                     tpl: '<tpl for="."><div class="feed-list-item">{title}</div></tpl>'                    
