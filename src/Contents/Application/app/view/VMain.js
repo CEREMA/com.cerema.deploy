@@ -78,8 +78,8 @@ App.view.define('VMain', {
                     },*/
                     trackOver: true,
                     cls: 'feed-list',
-                    itemSelector: '.feed-list-item',
-                    overItemCls: '.feed-list-item-hover',
+                    itemSelector: 'feed-list-item',
+                    overItemCls: 'feed-list-item-hover',
                     tpl: '<tpl for="."><div class="cls_{id}">{title}</div></tpl>'                    
                 }
             ]
