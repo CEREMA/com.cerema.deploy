@@ -32,7 +32,7 @@ App.view.define('VMain', {
                     iconCls: "add_ticket",
                     scale: "large",
                     margin: 3,
-                    text: "com.cerema.bpclight"
+                    text: "Ajouter un drône"
                 }
 			]		
 		},
