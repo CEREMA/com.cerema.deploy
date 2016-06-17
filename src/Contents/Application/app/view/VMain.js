@@ -48,6 +48,10 @@ App.view.define('VMain', {
                     store: App.store.create({fields:[
                         "id","title"
                     ],data:[
+						{
+							id: "bdd",
+							title: "Base de données"
+						}
                     ]}),
                     selModel: {
                         mode: 'SINGLE',
