@@ -173,3 +173,7 @@
 .cls_backup{
     background-image: url(webapp/backup.png);
 }
+
+.cls_tasks{
+    background-image: url(webapp/tasks.png);
+}
