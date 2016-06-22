@@ -169,3 +169,7 @@
 .cls_stats{
     background-image: url(webapp/stats.png);
 }
+
+.cls_backup{
+    background-image: url(webapp/backup.png);
+}
