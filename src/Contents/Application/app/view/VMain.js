@@ -61,6 +61,10 @@ App.view.define('VMain', {
 							title: "Bases de données"
 						},
 						{
+							id: "tasks",
+							title: "Tâches"
+						}, 
+                        {
 							id: "backup",
 							title: "Sauvegardes"
 						},                        
